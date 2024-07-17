@@ -1,0 +1,29 @@
+{
+  "type": "techdimension:tech_dimension",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "techdimension:tech_dimension",
+      "structure_overrides": [],
+      "disable_mob_generation": true,
+      "layers": [
+        {
+          "block": "air",
+          "height": 87
+        },
+        {
+          "block": "stone_bricks",
+          "height": 1
+        },
+        {
+          "block": "air",
+          "height": 8
+        },
+        {
+          "block": "stone_bricks",
+          "height": 1
+        }
+      ]
+    }
+  }
+}
